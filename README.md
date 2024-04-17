@@ -32,3 +32,6 @@ Understanding the composition of the workforce and identifying factors contribut
 ## Dashboard:
 <img width="620" alt="image" src="https://github.com/RishithaMamidala/HR-Attrition-PowerBI/assets/113060798/82fd6a3f-9349-4e75-996c-4d64d7b9e7ca">
 <img width="628" alt="image" src="https://github.com/RishithaMamidala/HR-Attrition-PowerBI/assets/113060798/3cfb32ca-ab64-4ad7-ae06-0470d0288bd8">
+
+References:
+https://datawolfs.com/hr-analytics-dashboard-power-bi-tutorial-beginners/
